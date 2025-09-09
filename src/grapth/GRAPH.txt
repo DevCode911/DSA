@@ -1,0 +1,23 @@
+n = total number of Node
+m = total number of edges
+
+    undirected
+    bi- directional
+    1 ------- 2
+    |         |
+    |         |
+    4 ------- 3
+     \       /
+      \     /
+         5
+
+
+    directed
+    1 -------> 2
+    |         |
+    |         |
+    4 -------> 3
+     \       /
+      \     /
+         5
+
